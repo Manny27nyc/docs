@@ -41,7 +41,7 @@ versions:
 {% link_in_list /github-research-program-terms %}
 {% link_in_list /github-open-source-applications-terms-and-conditions %}
 {% link_in_list /github-and-trade-controls %}
-{% link_in_list /github-deceased-user-policy %}
+{% lin
 {% link_in_list /github-statement-against-modern-slavery-and-child-labor %}
 {% link_in_list /github-anti-bribery-statement %}
 {% link_in_list /github-gifts-and-entertainment-policy %}
