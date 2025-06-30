@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This module is for testing our handling of uncaught async rejections on incoming requests
 
 module.exports = async function triggerError (req, res, next) {

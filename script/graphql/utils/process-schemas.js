@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { sortBy } = require('lodash')
 const { parse, buildASTSchema } = require('graphql')
 const helpers = require('./schema-helpers')

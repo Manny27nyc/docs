@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This file exports an object with utility functions for re-use in
 // multiple test files
 

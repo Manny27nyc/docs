@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const patterns = require('../lib/patterns')
 
 module.exports = (req, res, next) => {

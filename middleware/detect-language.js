@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const languageCodes = Object.keys(require('../lib/languages'))
 
 // determine language code from first part of URL, or default to English

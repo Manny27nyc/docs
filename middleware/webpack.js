@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const webpack = require('webpack')
 const middleware = require('webpack-dev-middleware')
 const config = require('../webpack.config')

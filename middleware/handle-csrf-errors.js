@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports = async function handleCSRFError (error, req, res, next) {
   // If the CSRF token is bad
   if (error.code === 'EBADCSRFTOKEN') {

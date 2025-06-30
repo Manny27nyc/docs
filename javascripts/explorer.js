@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 export default function () {
   // TODO support "Run in Explorer" links in GraphQL guides

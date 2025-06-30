@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { sentenceCase } = require('change-case')
 const GithubSlugger = require('github-slugger')
 const slugger = new GithubSlugger()

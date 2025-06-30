@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const renderContent = require('../../lib/render-content')
 
 describe('octicon tag', () => {

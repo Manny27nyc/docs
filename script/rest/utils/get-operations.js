@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const Operation = require('./operation')
 
 // The module accepts a JSON schema object as input

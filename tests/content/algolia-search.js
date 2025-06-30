@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { dates, supported } = require('../../lib/enterprise-server-releases')
 const languageCodes = Object.keys(require('../../lib/languages'))
 const AlogliaIndex = require('../../lib/algolia/search-index')

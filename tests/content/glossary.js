@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const loadSiteData = require('../../lib/site-data')
 
 describe('glossaries', () => {

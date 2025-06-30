@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs').promises
 const path = require('path')
 const { testViaActionsOnly } = require('../helpers/conditional-runs')

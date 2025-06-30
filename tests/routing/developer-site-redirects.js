@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { eachOfLimit } = require('async')
 const enterpriseServerReleases = require('../../lib/enterprise-server-releases')
 const { get } = require('../helpers/supertest')

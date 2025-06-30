@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const defaultResponse = 'User-agent: *'
 
 const disallowAll = `User-agent: *

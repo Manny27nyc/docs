@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const app = require('../../server')
 const enterpriseServerReleases = require('../../lib/enterprise-server-releases')
 const { get, getDOM } = require('../helpers/supertest')

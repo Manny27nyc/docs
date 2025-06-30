@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { head } = require('../helpers/supertest')
 
 describe('developer.github.com redirects', () => {

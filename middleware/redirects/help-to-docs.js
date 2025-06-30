@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { URL } = require('url')
 const patterns = require('../../lib/patterns')
 

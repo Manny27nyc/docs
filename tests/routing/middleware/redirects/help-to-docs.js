@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const MockExpressResponse = require('mock-express-response')
 const middleware = require('../../../../middleware/redirects/help-to-docs')
 

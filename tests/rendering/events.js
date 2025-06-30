@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const request = require('supertest')
 const nock = require('nock')
 const app = require('../../server')

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const revalidator = require('revalidator')
 const schema = require('../../lib/site-tree-schema')
 const latestEnterpriseRelease = require('../../lib/enterprise-server-releases').latest

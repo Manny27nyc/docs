@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This middleware serves a file that's used by the GitHub support team
 // to quickly search for Help articles by title and insert the link to
 // the article into a reply to a customer.

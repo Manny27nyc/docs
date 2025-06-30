@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This middleware uses the request path to find a page in the preloaded context.pages object
 
 module.exports = async function findPage (req, res, next) {

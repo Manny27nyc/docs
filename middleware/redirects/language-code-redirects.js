@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const languages = require('../../lib/languages')
 
 // This middleware handles redirects for mistyped language codes

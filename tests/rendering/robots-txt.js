@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const languages = require('../../lib/languages')
 const robotsParser = require('robots-parser')
 const robotsMiddleware = require('../../middleware/robots')

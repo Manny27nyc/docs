@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const wordsLongerThan18Chars = /[\S]{18,}/g
 const camelCaseChars = /([a-z])([A-Z])/g
 const underscoresAfter12thChar = /([\w:]{12}[^_]*?)_/g

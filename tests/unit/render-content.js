@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const cheerio = require('cheerio')
 const renderContent = require('../../lib/render-content/renderContent')
 const { EOL } = require('os')

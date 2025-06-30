@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const previewsJson = require('../../lib/graphql/static/previews')
 const upcomingChangesJson = require('../../lib/graphql/static/upcoming-changes')
 const prerenderedObjectsJson = require('../../lib/graphql/static/prerendered-objects')

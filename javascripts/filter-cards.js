@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function filterCards (cards, value) {
   const noResults = document.querySelector('.js-filter-card-no-results')
   const matchReg = new RegExp(value, 'i')

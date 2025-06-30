@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { get } = require('lodash')
 const { liquid } = require('../lib/render-content')
 const patterns = require('../lib/patterns')

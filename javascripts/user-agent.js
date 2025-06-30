@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // A tiny user agent checking RegExp for analytics purposes
 
 // The order matters with these

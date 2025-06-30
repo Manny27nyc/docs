@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export default function () {
   // Open and close mobile nav
   const hamburgerButton = document.querySelector('.nav-mobile-burgerIcon')

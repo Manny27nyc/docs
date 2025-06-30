@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export default function () {
   // TODO override active classes set on server side if sidebar elements are clicked
 

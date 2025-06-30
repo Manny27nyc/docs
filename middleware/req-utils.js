@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const Hydro = require('../lib/hydro')
 
 module.exports = (req, res, next) => {

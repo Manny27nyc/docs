@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const config = require('../../lib/crowdin-config').read()
 const { loadPages } = require('../../lib/pages')
 const ignoredPagePaths = config.files[0].ignore

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const walk = require('walk-sync')
 const path = require('path')
 const { get, isPlainObject } = require('lodash')

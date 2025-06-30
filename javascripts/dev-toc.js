@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const expandText = 'Expand All'
 const closeText = 'Close All'
 

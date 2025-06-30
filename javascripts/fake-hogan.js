@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This module overrides "Hogan" that instantsearch.js uses
 // Hogan uses `new Function`,
 // so we can't use it with our content security policy.

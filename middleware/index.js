@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const express = require('express')
 
 const isDevelopment = process.env.NODE_ENV === 'development'

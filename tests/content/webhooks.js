@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { difference } = require('lodash')
 const { getJSON } = require('../helpers/supertest')
 const { latest } = require('../../lib/enterprise-server-releases')

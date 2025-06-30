@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const findPageInVersion = require('../lib/find-page-in-version')
 const { getVersionedPathWithLanguage } = require('../lib/path-utils')
 

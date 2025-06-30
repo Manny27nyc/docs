@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const revalidator = require('revalidator')
 const languages = require('../../lib/languages')
 const schema = require('../../lib/languages-schema')

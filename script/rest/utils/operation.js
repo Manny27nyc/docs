@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { get, flatten, isPlainObject } = require('lodash')
 const { sentenceCase } = require('change-case')
 const slugger = new (require('github-slugger'))()

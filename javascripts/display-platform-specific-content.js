@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { getPlatformFromUserAgent } = require('platform-utils')
 const supportedPlatforms = ['mac', 'windows', 'linux']
 const detectedPlatforms = new Set()

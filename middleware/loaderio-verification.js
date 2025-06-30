@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // prove to loader.io that we own this site
 // by responding to requests like `/loaderio-12345/` with `loaderio-12345`
 module.exports = (req, res, next) => {

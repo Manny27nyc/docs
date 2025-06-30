@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { uniq } = require('lodash')
 
 module.exports = function earlyAccessContext (req, res, next) {

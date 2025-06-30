@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 require('./lib/check-node-version')
 require('./lib/handle-exceptions')
 require('./lib/feature-flags')

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { LinksChecker, buildInitialContext, buildPathContext } = require('../helpers/links-checker')
 const { uniq } = require('lodash')
 const languageCode = 'en'

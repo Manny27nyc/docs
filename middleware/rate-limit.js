@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const rateLimit = require('express-rate-limit')
 const RedisStore = require('rate-limit-redis')
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const rank = require('../../../lib/algolia/rank')
 
 test('algolia custom rankings', () => {

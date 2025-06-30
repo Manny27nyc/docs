@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const path = require('path')
 const patterns = require('../lib/patterns')
 const isArchivedVersion = require('../lib/is-archived-version')

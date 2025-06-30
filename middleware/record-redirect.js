@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { v4: uuidv4 } = require('uuid')
 
 module.exports = function (req, res, next) {

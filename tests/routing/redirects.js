@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const path = require('path')
 const { isPlainObject } = require('lodash')
 const supertest = require('supertest')

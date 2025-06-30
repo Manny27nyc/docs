@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const filenameToKey = require('../../../lib/filename-to-key')
 
 describe('filename-to-key', () => {

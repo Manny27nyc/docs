@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const FASTLY_TTL = process.env.FASTLY_TTL || String(60 * 60 * 24) // 24 hours
 const STALE_TTL = String(60 * 10) // 10 minutes
 

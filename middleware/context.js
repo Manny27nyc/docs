@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const languages = require('../lib/languages')
 const enterpriseServerReleases = require('../lib/enterprise-server-releases')
 const allVersions = require('../lib/all-versions')

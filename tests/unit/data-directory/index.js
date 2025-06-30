@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const path = require('path')
 const dataDirectory = require('../../../lib/data-directory')
 const fixturesDir = path.join(__dirname, 'fixtures')

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const yaml = require('js-yaml')
 const { groupBy } = require('lodash')
 const renderContent = require('../../../lib/render-content')

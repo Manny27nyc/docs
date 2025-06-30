@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const revalidator = require('revalidator')
 const allVersions = require('../../lib/all-versions')
 const { latest } = require('../../lib/enterprise-server-releases')

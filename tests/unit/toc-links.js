@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { loadPages } = require('../../lib/pages')
 const renderContent = require('../../lib/render-content')
 const allVersions = Object.keys(require('../../lib/all-versions'))

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { liquid } = require('../lib/render-content')
 const layouts = require('../lib/layouts')
 const FailBot = require('../lib/failbot')

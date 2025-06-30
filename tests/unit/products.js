@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const revalidator = require('revalidator')
 const products = require('../../lib/all-products')
 const schema = require('../../lib/products-schema')

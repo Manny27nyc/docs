@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* global page, browser */
 const sleep = require('await-sleep')
 const querystring = require('querystring')

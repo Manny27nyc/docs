@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { sendEvent } from './events'
 const instantsearch = require('instantsearch.js').default
 const { searchBox, hits, configure, analytics } = require('instantsearch.js/es/widgets')

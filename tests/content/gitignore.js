@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs')
 const path = require('path')
 const gitignorePath = path.join(process.cwd(), '.gitignore')

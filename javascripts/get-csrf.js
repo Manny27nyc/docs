@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export async function fillCsrf () {
   const response = await fetch('/csrf', {
     method: 'GET',

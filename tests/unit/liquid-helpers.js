@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { liquid } = require('../../lib/render-content')
 const { loadPageMap } = require('../../lib/pages')
 const entities = new (require('html-entities').XmlEntities)()

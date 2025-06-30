@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { isEqual, get, uniqWith } = require('lodash')
 const loadSiteData = require('../../lib/site-data')
 const { loadPages } = require('../../lib/pages')

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { diff, ChangeType } = require('@graphql-inspector/core')
 const { loadSchema } = require('@graphql-tools/load')
 const fs = require('fs')

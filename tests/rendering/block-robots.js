@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { blockIndex } = require('../../middleware/block-robots')
 const languages = require('../../lib/languages')
 const products = require('../../lib/all-products')

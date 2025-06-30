@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const previews = require('../../lib/graphql/static/previews')
 const upcomingChanges = require('../../lib/graphql/static/upcoming-changes')
 const changelog = require('../../lib/graphql/static/changelog')

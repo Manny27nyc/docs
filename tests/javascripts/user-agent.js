@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import parseUserAgent from '../../javascripts/user-agent'
 
 describe('parseUserAgent', () => {

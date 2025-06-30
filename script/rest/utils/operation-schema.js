@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This schema is used to validate each generated operation object at build time
 
 module.exports = {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const walkSync = require('walk-sync')
 const fs = require('fs').promises
 

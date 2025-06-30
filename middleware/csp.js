@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This module defines a Content Security Policy (CSP) to disallow
 // inline scripts and content from untrusted sources.
 

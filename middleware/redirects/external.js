@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const externalSites = require('../../lib/redirects/external-sites')
 
 // blanket redirects to external websites

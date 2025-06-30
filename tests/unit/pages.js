@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const path = require('path')
 const { loadPages, loadPageMap } = require('../../lib/pages')
 const languageCodes = Object.keys(require('../../lib/languages'))

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export default function () {
   const linkToEnglish = document.querySelector('#to-english-doc')
 

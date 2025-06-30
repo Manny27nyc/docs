@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const nock = require('nock')
 const Hydro = require('../../lib/hydro')
 
